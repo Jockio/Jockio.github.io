@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9dffc9;
+  background: #e9d201;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2732,6 +2732,9 @@ hr {
 }
 .menu .menu-item a:hover {
   background: #e1e1e1;
+}
+.menu .menu-item-active a {
+  background: #dfdfdf;
 }
 .menu a::before {
   display: none;
